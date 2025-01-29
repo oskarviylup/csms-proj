@@ -1,0 +1,15 @@
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/RepositoryServiceAndMigrationsForDB.csproj.AssemblyReference.cache
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/RepositoryServiceAndMigrationsForDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/RepositoryServiceAndMigrationsForDB.AssemblyInfoInputs.cache
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/RepositoryServiceAndMigrationsForDB.AssemblyInfo.cs
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/RepositoryServiceAndMigrationsForDB.csproj.CoreCompileInputs.cache
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/RepositoryServiceAndMigrationsForDB.sourcelink.json
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/RepositoryServiceAndMigrationsForDB.xml
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/bin/Debug/net8.0/RepositoryServiceAndMigrationsForDB.deps.json
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/bin/Debug/net8.0/RepositoryServiceAndMigrationsForDB.dll
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/bin/Debug/net8.0/RepositoryServiceAndMigrationsForDB.pdb
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/bin/Debug/net8.0/RepositoryServiceAndMigrationsForDB.xml
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/RepositoryServiceAndMigrationsForDB.dll
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/refint/RepositoryServiceAndMigrationsForDB.dll
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/RepositoryServiceAndMigrationsForDB.pdb
+/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/Debug/net8.0/ref/RepositoryServiceAndMigrationsForDB.dll

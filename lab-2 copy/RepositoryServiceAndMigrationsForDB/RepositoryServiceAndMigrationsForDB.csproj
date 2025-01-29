@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Task3</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentMigrator" />
+      <PackageReference Include="FluentMigrator.Runner" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" />
+      <PackageReference Include="Microsoft.Extensions.Options" />
+      <PackageReference Include="Newtonsoft.Json" />
+      <PackageReference Include="Npgsql" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ConfigServiceClient\ConfigServiceClient.csproj" />
+    </ItemGroup>
+
+</Project>

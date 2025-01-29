@@ -1,0 +1,169 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/RepositoryServiceAndMigrationsForDB.csproj": {}
+  },
+  "projects": {
+    "/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/RepositoryServiceAndMigrationsForDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/RepositoryServiceAndMigrationsForDB.csproj",
+        "projectName": "RepositoryServiceAndMigrationsForDB",
+        "projectPath": "/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/RepositoryServiceAndMigrationsForDB.csproj",
+        "packagesPath": "/Users/oskarviylyp/.nuget/packages/",
+        "outputPath": "/Users/oskarviylyp/csms/oskarviylup/src/lab-2/RepositoryServiceAndMigrationsForDB/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/oskarviylyp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[6.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[6.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Itmo.Dev.Editorconfig": {
+              "target": "Package",
+              "version": "[1.0.7, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )",
+              "versionCentrallyManaged": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Collections": {
+              "target": "Package",
+              "version": "[1.0.34, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Enumerable": {
+              "target": "Package",
+              "version": "[1.0.34, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.MemberAccessibility": {
+              "target": "Package",
+              "version": "[1.0.31, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Nullable": {
+              "target": "Package",
+              "version": "[1.0.34, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Properties": {
+              "target": "Package",
+              "version": "[1.0.34, )",
+              "versionCentrallyManaged": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.507, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "6.0.2",
+            "FluentAssertions": "7.0.0-alpha.4",
+            "FluentMigrator": "6.2.0",
+            "FluentMigrator.Runner": "6.2.0",
+            "Itmo.Dev.Editorconfig": "1.0.7",
+            "Itmo.Dev.Platform.Common": "1.1.126",
+            "Microsoft.Extensions.Configuration": "9.0.0",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+            "Microsoft.Extensions.Http": "8.0.1",
+            "Microsoft.Extensions.Options": "8.0.2",
+            "Microsoft.Extensions.Primitives": "9.0.0",
+            "Microsoft.NET.Test.Sdk": "17.11.1",
+            "Newtonsoft.Json": "13.0.1",
+            "Npgsql": "9.0.1",
+            "NSubstitute": "5.1.0",
+            "Refit": "8.0.0",
+            "Refit.HttpClientFactory": "7.2.1",
+            "Serilog.Sinks.PostgreSQL.Configuration": "1.0.1",
+            "SourceKit.Analyzers.Collections": "1.0.34",
+            "SourceKit.Analyzers.Enumerable": "1.0.34",
+            "SourceKit.Analyzers.MemberAccessibility": "1.0.31",
+            "SourceKit.Analyzers.Nullable": "1.0.34",
+            "SourceKit.Analyzers.Properties": "1.0.34",
+            "StyleCop.Analyzers": "1.2.0-beta.507",
+            "System.Linq": "4.3.0",
+            "System.Linq.Async": "6.0.1",
+            "xunit": "2.9.2",
+            "xunit.assert": "2.9.0",
+            "xunit.extensibility.core": "2.9.0",
+            "xunit.runner.visualstudio": "2.8.2"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
